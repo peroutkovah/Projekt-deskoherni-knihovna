@@ -1,0 +1,16 @@
+C:\Users\hanka\source\repos\lekce6 ukol banka\bin\Debug\net5.0\lekce6 ukol banka.exe
+C:\Users\hanka\source\repos\lekce6 ukol banka\bin\Debug\net5.0\lekce6 ukol banka.deps.json
+C:\Users\hanka\source\repos\lekce6 ukol banka\bin\Debug\net5.0\lekce6 ukol banka.runtimeconfig.json
+C:\Users\hanka\source\repos\lekce6 ukol banka\bin\Debug\net5.0\lekce6 ukol banka.runtimeconfig.dev.json
+C:\Users\hanka\source\repos\lekce6 ukol banka\bin\Debug\net5.0\lekce6 ukol banka.dll
+C:\Users\hanka\source\repos\lekce6 ukol banka\bin\Debug\net5.0\ref\lekce6 ukol banka.dll
+C:\Users\hanka\source\repos\lekce6 ukol banka\bin\Debug\net5.0\lekce6 ukol banka.pdb
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.csprojAssemblyReference.cache
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.AssemblyInfoInputs.cache
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.AssemblyInfo.cs
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.csproj.CoreCompileInputs.cache
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.dll
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\ref\lekce6 ukol banka.dll
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.pdb
+C:\Users\hanka\source\repos\lekce6 ukol banka\obj\Debug\net5.0\lekce6 ukol banka.genruntimeconfig.cache
