@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJmVyGseKPb6VYc55wTpYNAY2iaYOgCeHHJrL4j+j1pcNBEy5B2qGaAbE5z0vDhbop6hem+PBEmOASicuJj5gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanka\\Documents\\czechitas\\C2\\Projekt_domaci_deskohrani\\HomeGaming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hanka\\.nuget\\packages\\nlog\\4.7.9\\nlog.4.7.9.nupkg.sha512"
+  ],
+  "logs": []
+}

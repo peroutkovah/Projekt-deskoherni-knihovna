@@ -1,0 +1,16 @@
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\bin\Debug\net5.0\Projekt_HomeGaming.exe
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\bin\Debug\net5.0\Projekt_HomeGaming.deps.json
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\bin\Debug\net5.0\Projekt_HomeGaming.runtimeconfig.json
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\bin\Debug\net5.0\Projekt_HomeGaming.runtimeconfig.dev.json
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\bin\Debug\net5.0\Projekt_HomeGaming.dll
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\bin\Debug\net5.0\ref\Projekt_HomeGaming.dll
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\bin\Debug\net5.0\Projekt_HomeGaming.pdb
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.csprojAssemblyReference.cache
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.AssemblyInfoInputs.cache
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.AssemblyInfo.cs
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.csproj.CoreCompileInputs.cache
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.dll
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\ref\Projekt_HomeGaming.dll
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.pdb
+c:\Users\hanka\Documents\czechitas\C2\Projekt_domaci_deskohrani\obj\Debug\net5.0\Projekt_HomeGaming.genruntimeconfig.cache

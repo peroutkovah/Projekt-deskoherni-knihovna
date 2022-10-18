@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hanka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hanka\\.nuget\\packages"
+    ]
+  }
+}
